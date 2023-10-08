@@ -1,0 +1,28 @@
+.mycontainer{
+    height:100vh;
+}
+
+.mycontainer2{
+  background-color: rgb(232, 229, 229);
+  padding-top: 150px;
+  padding-right: 30px;
+  padding-left: 30px;
+}
+
+.textColors{
+  color: blue;
+}
+
+.errorspan{
+  color: red;
+  margin-bottom: 120px;
+}
+.btn{
+  margin-left: 5px;
+  margin-top: 5px;
+}
+.a2{
+  float: right;
+  margin-top: 10px;
+  text-decoration: none;
+}

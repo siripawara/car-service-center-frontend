@@ -1,0 +1,10 @@
+body{
+  background-color: rgb(255, 255, 255);
+  height: 100%;
+}
+
+.formValidationError{
+  color: rgb(174, 160, 160);
+  font-size: 12px;
+}
+

@@ -1,0 +1,14 @@
+.mycontainer{
+  height:100vh;
+}
+
+.mycontainer2{
+background-color: rgb(232, 229, 229);
+padding-top: 150px;
+padding-right: 30px;
+padding-left: 30px;
+}
+
+.textColors{
+color: blue;
+}

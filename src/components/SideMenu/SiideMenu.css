@@ -1,0 +1,20 @@
+.sidebarList{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+.sidebarList>li{
+    margin-bottom: 15px;
+    padding: 30px;
+    padding-left: 14px;
+    transition-duration: 0.5s; 
+
+}
+.sidebarList>li:hover{
+    background-color: blue;
+    color: white;
+}
+.icon2{
+    margin: auto;
+    margin-right: 8px;
+}
