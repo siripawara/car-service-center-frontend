@@ -73,7 +73,7 @@ const Nav = () => {
             </li>
           </ul> */}
           <ul className="me-auto"></ul>
-          <form class="d-flex" role="search">
+          <form class="d-flex align-items-baseline" role="search">
             <input
               class="form-control me-2"
               type="search"
@@ -93,7 +93,7 @@ const Nav = () => {
                 data-bs-toggle="dropdown"
                 aria-expanded="false"
               >
-                My Profile <i class="bi bi-person-circle d-inline"></i>
+                My Profile <i class="bi px-1 bi-person-circle d-inline"></i>
               </a>
               <ul class="dropdown-menu dropdown-menu-end">
                 <li>

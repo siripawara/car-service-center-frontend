@@ -11,7 +11,7 @@
 
 }
 .sidebarList>li:hover{
-    background-color: blue;
+    background-color: #007bff;
     color: white;
 }
 .icon2{

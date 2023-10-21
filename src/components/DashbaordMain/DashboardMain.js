@@ -4,6 +4,7 @@ import Home from '../Home/Home'
 import Nav from '../Nav/Nav'
 import SideMenu from '../SideMenu/SideMenu'
 import Appoinments from '../Appoinments/Appoinments'
+import PackagesDash from '../Packagesdash/PackagesDash'
 const DashboardMain = () => {
   return (
     <div>
@@ -13,8 +14,8 @@ const DashboardMain = () => {
           <div className='col-2 p-0 m-0 border-end ' style={{backgroundColor:"white"}}>
            <SideMenu/>
           </div>
-          <div className='col-10'>
-            <Appoinments/>
+          <div className='col-10 overflow-auto'>
+            <PackagesDash/>
           </div>
       </div>
     </div>

@@ -18,7 +18,7 @@ const SummeryCard = () => {
   ];
   const COLORS = ["#0088FE", "#00C49F"];
   return (
-    <div class="card summeryCard">
+    <div class="card mt-4 summeryCard">
       <div class="card-body">
         <h5 class="card-title">Summery Card</h5>
         <div className="container-fluid">
